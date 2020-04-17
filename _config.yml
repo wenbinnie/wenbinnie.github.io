@@ -16,11 +16,11 @@ sass:
 permalink: /posts/:title/
 texture:
   title: 钢镚聚集地
-  tagline: 好奇心求知欲是人的基本欲望
+  tagline: 好奇心与求知欲是人的基本欲望
   date_format: "%b %-d, %Y"
   style: black
   showNav: false
-  showPicker: true
+  showPicker: false
 
   # generate social links in footer
   social_links:
