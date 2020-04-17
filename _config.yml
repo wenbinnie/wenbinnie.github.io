@@ -15,8 +15,8 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  title: Adam Denisov
-  tagline: Developer. Designer
+  title: 钢镚聚集地
+  tagline: 好奇心求知欲是人的基本欲望
   date_format: "%b %-d, %Y"
   style: black
   showNav: false
